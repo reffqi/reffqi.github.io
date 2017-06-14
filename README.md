@@ -7,7 +7,7 @@
 
 ### Used Tags & Syntaxes :
 - HTML :
-```
+```html
 <!DOCTYPE html>
 <html></html>
 <head></head>
@@ -35,7 +35,8 @@
 ```
     
 - CSS :
-```
+
+```css
 margin:
 padding:
 width: 
