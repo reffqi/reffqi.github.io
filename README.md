@@ -3,7 +3,7 @@
 ## Hello World!
 
 ### About This Site :
-<p>Website ini yang akan saya buat berisikan tentang laman portal berita. Sekarang saya lebih tertarik membuat berita di bidang teknologi dan otomotif. Saat ini belum terdapat isi berita.</p>
+Website yang akan saya buat berisikan tentang laman portal berita. Sekarang saya lebih tertarik membuat berita di bidang teknologi dan otomotif. Saat ini belum terdapat isi berita.
 
 ### Used Tags & Syntaxes :
 - HTML :
@@ -68,8 +68,8 @@ padding-bottom:
 ```
 
 ### About Me :
-<p>Saya Rifqi Anugrah, biasa di panggil rifqi/qiqi. Bertempat tinggal di Bekasi Utara sampai sekarang. Saya kuliah S1 jurusan Akuntansi di Universitas Gunadarma. Dulu saya pernah bekerja sebagai marketing officer di salah satu perusahaan swasta. Setelah keluar dari pekerjaan saya langsung memutuskan untuk mengambil codingBootcamp di Hacktiv8, untuk kedepannya berkarir di dunia IT sebagai Full Stack Developer.</p>
+Saya Rifqi Anugrah, biasa di panggil rifqi/qiqi. Bertempat tinggal di Bekasi Utara sampai sekarang. Saya kuliah S1 jurusan Akuntansi di Universitas Gunadarma. Dulu saya pernah bekerja sebagai marketing officer di salah satu perusahaan swasta. Setelah keluar dari pekerjaan saya langsung memutuskan untuk mengambil codingBootcamp di Hacktiv8, untuk kedepannya berkarir di dunia IT sebagai Full Stack Developer.
 
-<p>Saya memiliki ketertarikan dan minat terhadap teknologi dan fotografi, mungkin untuk sekarang fotografi hanya untuk mengisi waktu luang saja. Dari minat saya terhadap teknologi inilah saya memilih untuk mempelajari lebih lanjut tentang coding web apps.</p>
+Saya memiliki ketertarikan dan minat terhadap teknologi dan fotografi, mungkin untuk sekarang fotografi hanya untuk mengisi waktu luang saja. Dari minat saya terhadap teknologi inilah saya memilih untuk mempelajari lebih lanjut tentang coding web apps.
 
-<p>Terima Kasih</p>
+Terima Kasih
