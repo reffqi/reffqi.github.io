@@ -1,0 +1,257 @@
+// VARIABLE
+
+var tampung = 5;
+console.log(tampung); // 5
+
+var angkaGanjil = 1,angkaGenap = 2;
+console.log(angkaGanjil); // 1
+console.log(angkaGenap); // 2
+
+var tampungBaru;
+console.log(tampungBaru); // UNDEFINED
+
+// OPERATOR
+
+4 % 2// 4 modulus 2
+0 // bilangan 4 habis dibagi 2, sehingga 4 modulus 2 menghasilkan nilai 0
+5 % 2 // 5 modulus 2
+1 // bilangan 5 habis tidak habis dibagi 2, sehingga 5 modulus 2 menghasilkan nilai 1, sisa dari hasil pembagian
+
+// Assignment Operator
+
+var bilangan
+bilangan = 5; // Contoh assignment value 5 ke sebuah variable
+
+// Comparison Operator
+
+// Equal operator (==)
+
+var angka = 8
+console.log(angka == 8); // true
+console.log(angka == 1); // false
+// Not Equal operator (!=)
+
+var angka = 8
+console.log(angka !=7); // true
+consle.log(angka !=8); // false
+
+// Strict Equal operator (===)
+
+var angkaBeda ="8"
+console.log(angka == 8); // true
+console.log(angka === 8); // false
+console.log(angka === "8") // true
+
+// Strict Not Equal operator (!==)
+
+var angka = 8
+console.log(angka !== 7); // true
+console.log(angka !== 7); // true
+console.log(angka !== 8); // true
+console.log(angka !== "8";) // false
+
+// Less Than (<)/Greater Than (>)
+
+var angka = 8
+console.log(angka > 7); // true
+console.log(angka < 6); // false
+console.log(angka <== "8"); //true
+
+// Conditional Operator
+
+// OR(||)
+
+console.log(true || true); // true
+console.log(true || false); // true
+console.log(true || false || false); // true
+console.log(false || false); // true
+
+// AND (&&)
+
+console.log(true && true); // true
+console.log(true && false); // false
+console.log(false && false); // false
+console.log(false && true && true); // false
+console.log(true && true && true); // true
+
+// CONDITIONAL
+
+// Contoh Conditional 1
+
+if(true) {
+  console.log("Jalankan kode"); // baris kode ini akan di panggil
+}
+
+// Contoh Conditional 2
+
+if(false) {
+  console.log("Jalankan kode"); // baris kode ini tidak di panggil
+}
+
+//Contoh Conditional 3
+
+var tampung = 5;
+if(tampung == 5) {
+  console.log("angka yang ditampung adalah 5");
+}
+
+//Contoh Conditional 4
+
+var tampung = 5;
+if(tampung == 5) {
+  console.log("angka yang ditampung adalah 5!");
+}
+else {
+  console.log("angka yang di tampung bukan 5!");
+}
+
+// Contoh Conditional 5
+
+var tampung = 5;
+if(tampung == 5) {
+  console.log("angka yang ditampung adalah 5!");
+}
+else {
+  if(tampung < 5) {
+    console.log("angka yag ditampung bukan 5, tapi lebih kecil dari 5.");
+  }
+  else {
+    console.log("angka yang ditampung bukan 5, tapi lebih besar dari 5.");
+  }
+}
+
+//Contoh conditional 5
+
+var tampung = 5;
+if(tampung == 5) {
+  console.log("angka yang ditampung adalah 5!");
+}
+else if(tampung < 5) {
+  console.log("angka yang ditampung bukan 5, tapi lebih kecil dari 5.");
+}
+else {
+  console.log("angka yang ditampung bukan 5, tapi lebih besar dari 5.");
+}
+
+// switch-case
+
+var buttonPushed = 1;
+switch(buttonPushed) {
+  case 1: { console.log('matikan TV!'); break; }
+  case 2: { console.log('turunkan volume TV!'); break; }
+  case 3: { console.log('tingkatkan volume TV!'); break; }
+  case 4: { console.log('matikan suara TV!'); break; }
+  default: { console.log('Tidak terjadi apa-apa'); }
+}
+
+// LOOP/ITERATION
+
+// While-loop
+
+while([Kondisi]) { // Kondisi yang menentukan apakah program akan melakukan iterasi. Berupa boolean atau true/false.
+  [Proses] // Merupakan proses yang akan dijalankan dalam satu iterasi
+}
+
+// Contoh Looping While-loop 1
+
+var flag = 1;
+while(flag < 10) { // Loop akan terus berjalan selama nilai flag masih dibawah 10 
+  console.log('Iterasi ke-' + flag); // Menampilkan nilai flag pada iterasi tertentu
+  flag++; // Mengubah nilai flag dengan menambahkan 1
+}
+
+// Contoh Looping While-loop 2
+var deret = 5;
+var jumlah = 0;
+while(deret > 0) { // Loop akan terus berjalan selama nilai deret masih di atas 0
+  jumlah += deret; // Menambahkan nilai variable jumlah dengan angka deret
+  deret--; // Mengubah nilai deret dengan mengurangi 1
+  console.log('Jumlah saat ini: ' + jumlah)
+}
+
+// For-loop
+for([Inisialisasi], [Kondisi], [Incremental/Decremental]) {
+  [Proses] // Merupakan proses yang akan dijalankan dalam satu iterasi
+}
+    
+// Contoh Looping For-loop 1
+for(var angka = 1; angka < 10; angka++) {
+  console.log('Iterasi ke-' + angka);
+}
+
+// Contoh Looping For-loop 2
+var jumlah = 0;
+for(var deret = 5; deret > 0; deret--) {
+  jumlah += deret;
+  console.log('Jumlah saat ini: ' + jumlah);
+}
+
+console.log('Jumlah terakhir: ' + jumlah);
+
+// Contoh Looping For-loop 3
+for(var deret = 0; deret < 10; deret += 2) {
+  console.log('Iterasi dengan Increment counter 2: ' + deret);
+}
+
+console.log('---------------------------');
+
+for(var deret = 15; deret > 0; deret -= 3) {
+  console.log('Iterasi dengan Decrement counter : ' + deret);
+}
+
+// Forever Looping!
+var flag = 1;
+while(flag < 10) { // Loop akan terus berjalan, karena nilai flag tidak pernah berubah
+  console.log('Iterasi ke-' + flag);
+}
+
+// Function/Method
+
+function nama_function(parameter 1, parameter 2, ...) {
+  [Isi dari function berupa tindakan]
+  return [expression];
+}
+
+// Contoh Function 1
+function tampilkan() {
+  console.log("halo!");
+}
+
+tampilkan();
+
+// Contoh Function 2
+function munculkanAngkaDua() {
+  return 2
+}
+
+var tampung = munculkanAngkaDUa();
+console.log(tampung)
+
+// Console Function 3
+function kalikanDua(angka) {
+  return angka * 2
+}
+ var tampung = kalikanDua(2);
+console.log(tampung)
+
+// Console Function 4
+function tampilkanAngka(angkaPertama, angkaKedua) {
+  return angkaPertama + angkaKedua
+}
+
+console. log(tampilkanAngka(5,3))
+
+// Contoh Function 5
+function tampilkanAngka(angka = 1) {
+  return angka
+}
+
+console.log(tampilkanAngka(5)) // 5, sesuai dengan nilai parameter yang dikirim
+console.log(tampilkanAngka(1)) // 1, karena default dari parameter adalah 1
+
+// pengiriman parameter yang UNDEFINED!
+var fungsiPerkalian = function(angkaPertama, angkaKedua){
+  return angkaPertama * angkaKedua
+}
+
+console.log(fungsiPerkalian(2,4))
