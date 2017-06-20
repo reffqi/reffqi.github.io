@@ -6,3 +6,6 @@ Mengenal penggunaan Conditional (If-Else) dalam JavaScript
 Mengenal penggunaan Iteration (For) dalam JavaScript
 
 W2D2 =
+Menyelesaikan Codecademy JavaScript Course Unit 1
+Menyelesaikan Codecademy JavaScript Course Unit 2
+Mengenal Penggunaan Functions
