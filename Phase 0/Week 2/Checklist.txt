@@ -9,3 +9,5 @@ W2D2 =
 Menyelesaikan Codecademy JavaScript Course Unit 1
 Menyelesaikan Codecademy JavaScript Course Unit 2
 Mengenal Penggunaan Functions
+Membuat algoritma sederhana dalam pseudocode
+Melakukan Perulangan Menggunakan While
