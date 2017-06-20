@@ -23,10 +23,12 @@ SIMPAN 'tinggi' dari segitiga
 HITUNG 'luas segitiga' dari 'alas' dikali 'tinggi' dibagi 2
 TULISKAN "Luas Segitiga: 'luas segitiga'"
 
+```
 var alas = 10;
 var tinggi = 4;
 luasSegitiga = alas * tinggi / 2;
 console.log("Luas Segitiga: " + luasSegitiga)
+```
 
 http://jsbin.com/topuzus/edit?js,console
 
