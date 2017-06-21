@@ -1,13 +1,36 @@
-Tugas yang sudah di submit :
+### Tugas yang sudah di submit :
 
+```
 W2D1 = 
 Mengenal penggunaan Variable dalam JavaScript
 Mengenal penggunaan Conditional (If-Else) dalam JavaScript
 Mengenal penggunaan Iteration (For) dalam JavaScript
+```
 
+```
 W2D2 =
 Menyelesaikan Codecademy JavaScript Course Unit 1
 Menyelesaikan Codecademy JavaScript Course Unit 2
 Mengenal Penggunaan Functions
 Membuat algoritma sederhana dalam pseudocode
 Melakukan Perulangan Menggunakan While
+Mengubah Pseudocode menjadi kode JavaScript
+```
+
+```
+W2D3 =
+Tantangan Array 1 (Mengakses Nilai dalam Array)
+```
+
+```
+W2D4 =
+Tantangan Menggunakan Object 1
+```
+
+```
+W2D5 =
+```
+
+```
+W2D6-7 =
+```

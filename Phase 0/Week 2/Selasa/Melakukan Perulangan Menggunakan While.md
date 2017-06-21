@@ -1,6 +1,6 @@
 http://jsbin.com/codubaj/edit?js,console
 
-```
+```javascript
 var deret = 0;
 while(deret < 20) {
   deret += 1;

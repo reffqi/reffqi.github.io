@@ -1,7 +1,7 @@
 http://jsbin.com/bubetuh/edit?js,console
 
 
-```
+```javascript
 // Input 1
 var nama = "", peran = "";
 if(nama === ""){

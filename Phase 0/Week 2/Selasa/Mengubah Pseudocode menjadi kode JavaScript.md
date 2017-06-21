@@ -7,7 +7,7 @@ HITUNG 'hasil bagi' dari 'angka pembilang' dibagi 'angka penyebut'
 TULISKAN "Halo 'nama', 'angka pembilang' dibagi 'angka penyebut' adalah sama dengan 'hasil bagi'
 ```
 
-```
+```javascript
 var nama = "Rifqi";
 var angkaPembilang = 5;
 var angkaPenyebut = 2;
@@ -25,7 +25,7 @@ HITUNG 'luas segitiga' dari 'alas' dikali 'tinggi' dibagi 2
 TULISKAN "Luas Segitiga: 'luas segitiga'"
 ```
 
-```
+```javascript
 var alas = 10;
 var tinggi = 4;
 luasSegitiga = alas * tinggi / 2;
@@ -51,7 +51,7 @@ ELSE:
     TULISKAN "`tahun` adalah bukan tahun kabisat"
 ENDIF
 ```
-```
+```javascript
 var tahun = 2017;
 if(tahun % 4 === 0)
   if(tahun % 100 !== 0){

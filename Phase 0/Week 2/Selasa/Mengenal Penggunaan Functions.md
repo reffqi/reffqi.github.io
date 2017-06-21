@@ -2,7 +2,7 @@ http://jsbin.com/yegajub/1/edit?js,console
 
 
 # Tugas 1
-```
+```javascript
 function shoutOut() {
   return ("Halo Function!");
 }
@@ -13,7 +13,7 @@ console.log('-------------------------------');
 ```
 
 # Tugas 2
-```
+```javascript
 function calculateMultiply(num1, num2) {
   return num1 * num2
 }
@@ -28,7 +28,7 @@ console.log('-------------------------------');
 ```
 
 # Tugas 3
-```
+```javascript
 function processSentence(name, age, address, hobby) {
   return "Nama saya " + name + ", umur saya " + age + " tahun, alamat saya di " + address + ", dan saya punya hobby yaitu " + hobby + " !"
 }

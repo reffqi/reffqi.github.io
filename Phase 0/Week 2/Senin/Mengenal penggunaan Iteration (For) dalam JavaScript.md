@@ -1,6 +1,6 @@
 http://jsbin.com/nofolo/1/edit?js,console
 
-```
+```javascript
 for(var angka = 1; angka <=20; angka++){
   console.log(angka + " - I love coding")
 }
