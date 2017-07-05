@@ -25,6 +25,7 @@ Tantangan Array 1 (Mengakses Nilai dalam Array)
 ```
 W2D4 =
 Tantangan Menggunakan Object 1
+Tantangan Menggunakan Object 2
 ```
 
 ```

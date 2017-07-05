@@ -5,12 +5,10 @@ Buatlah sebuah pseudocode yang mengambil dua angka, dan menghitung serta menampi
 hint: Gunakan kata kunci SIMPAN, HITUNG, dan TULISKAN.
 
 ```javascript
-BACA dan SIMPAN "angka pertama"
-BACA dan SIMPAN "angka kedua"
+SIMPAN "angka pertama"
+SIMPAN "angka kedua"
 HITUNG "angka pertama" dikalikan "angka kedua"
-TULISKAN hasil hitungan perkalian
-SIMPAN hasil hitungan
-TAMPILKAN hasil hitungan
+TULISKAN hasil hitungan
 ```
 
 # Tugas 2
@@ -20,12 +18,9 @@ Buatlah sebuah pseudocode yang mengambil sebuah kata, dan jika kata yang diambil
 hint: Gunakan kata kunci SIMPAN, IF, dan TULISKAN.
 
 ```javascript
-BACA dan SIMPAN "Saya Belajar JavaScript!"
-BACA dan SIMPAN "Pasti Bisa!"
-IF "Saya Belajar JavaScript!" 
-TULISKAN "Saya Belajar JavaScript!"
-SIMPAN hasilnya
-TAMPILKAN hasil
+SIMPAN "kata"
+JIKA kata = "Saya Belajar JavaScript!" KEMUDIAN
+TULISKAN "Pasti Bisa!"
 ```
 
 # Tugas 3
@@ -35,8 +30,8 @@ Buatlah sebuah pseudocode yang mengambil sebuah angka. Tampilkan sebuah deret an
 hint: Gunakan kata kunci SIMPAN, ULANGI, dan TAMPILKAN.
 
 ```javascript
-BACA dan SIMPAN "angka 1"
-ULANGI deret angka yang habis dibagi 3, dimulai dari "angka 1"
-SIMPAN hasil sebelumnya
-TAMPILKAN hasil
+SIMPAN "angka"
+ULANGI 1 lebih kecil sama dengan i lebih kecil sama dengan "angka" KEMUDIAN
+JIKA i habis dibagi 3 sama dengan 0 KEMUDIAN
+TAMPILKAN i
 ```
