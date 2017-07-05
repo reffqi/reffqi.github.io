@@ -1,73 +1,46 @@
-# Tugas 1
-```
-SIMPAN 'nama'
-SIMPAN 'angka pembilang'
-SIMPAN 'angka penyebut'
-HITUNG 'hasil bagi' dari 'angka pembilang' dibagi 'angka penyebut'
-TULISKAN "Halo 'nama', 'angka pembilang' dibagi 'angka penyebut' adalah sama dengan 'hasil bagi'
-```
+http://jsbin.com/givabub/edit?js,console
 
-```javascript
-var nama = "Rifqi";
-var angkaPembilang = 5;
-var angkaPenyebut = 2;
-hasilBagi = angkaPembilang % angkaPenyebut;
-console.log("Halo " + nama + ", " + angkaPembilang + " dibagi " + angkaPenyebut + " adalah sama dengan " + hasilBagi)
-```
+'''javascript
+// Tugas 1
+console.log("Tugas 1");
 
-http://jsbin.com/wuciyan/edit?js,console
+var nama = "Rifqi Anugrah";
+var angkaPembilang = 25;
+var angkaPenyebut = 5;
+hasilBagi = angkaPembilang / angkaPenyebut;
+console.log("Halo " + nama + ", " + angkaPembilang + " dibagi " + angkaPenyebut + " adalah sama dengan " + hasilBagi);
+console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-# Tugas 2
-```
-SIMPAN 'alas' dari segitiga
-SIMPAN 'tinggi' dari segitiga
-HITUNG 'luas segitiga' dari 'alas' dikali 'tinggi' dibagi 2
-TULISKAN "Luas Segitiga: 'luas segitiga'"
-```
 
-```javascript
+// Tugas 2
+console.log("Tugas 2");
+
 var alas = 10;
 var tinggi = 4;
-luasSegitiga = alas * tinggi / 2;
-console.log("Luas Segitiga: " + luasSegitiga)
-```
+luasSegitiga = (alas * tinggi) / 2;
+console.log("Luas Segitiga: " + luasSegitiga);
+console.log("~~~~~~~~~~~~~~~~~")
 
-http://jsbin.com/topuzus/edit?js,console
 
-# Tugas 3
-```
-MASUKKAN sebuah tahun pada `tahun`
-IF `tahun` habis dibagi 4 THEN:
-    IF `tahun` tidak habis dibagi 100 THEN:
-        TULISKAN "`tahun` adalah tahun kabisat"
-    ELSE:
-        IF `tahun` habis dibagi 400 THEN:
-            TULISKAN "`tahun` adalah tahun kabisat"
-        ELSE:
-            TULISKAN "`tahun` adalah bukan tahun kabisat"
-        ENDIF
-    ENDIF
-ELSE:
-    TULISKAN "`tahun` adalah bukan tahun kabisat"
-ENDIF
-```
-```javascript
+// Tugas 3
+console.log("Tugas 3");
+
 var tahun = 2017;
 if(tahun % 4 === 0)
   if(tahun % 100 !== 0){
-    console.log(tahun + " adalah tahun kabisat")
+    console.log(tahun + " adalah tahun kabisat");
   } 
   else {
-    if(tahun % 4 === 0){
-      console.log(tahun + " adalah tahun kabisat")
+    if(tahun % 400 === 0){
+      console.log(tahun + " adalah tahun kabisat");
     }
     else {
-      console.log(tahun + " adalah bukan tahun kabisat")
+      console.log(tahun + " adalah bukan tahun kabisat");
     }
   }
 else {
-  console.log(tahun + " adalah bukan tahun kabisat")
+  console.log(tahun + " adalah bukan tahun kabisat");
 }
-```
 
-http://jsbin.com/desawom/edit?js,console
+console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+```
