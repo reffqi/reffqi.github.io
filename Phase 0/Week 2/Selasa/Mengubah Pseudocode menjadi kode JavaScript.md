@@ -1,6 +1,6 @@
 http://jsbin.com/givabub/edit?js,console
 
-'''javascript
+```javascript
 // Tugas 1
 console.log("Tugas 1");
 
