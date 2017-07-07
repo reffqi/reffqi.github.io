@@ -1,0 +1,28 @@
+Tugas yang sudah di submit :
+
+```
+W3D1 =
+Tantangan Looping: Jumlah Perkalian Bilangan
+Tantangan Rekursif: Jumlah Perkalian Bilangan
+```
+
+```
+W3D2 =
+
+```
+
+```
+W3D3 =
+
+```
+
+```
+W3D4 =
+
+```
+
+```
+W3D5 =
+Live Coding (Tugas 1, Tugas 2, Tugas 3)
+
+```

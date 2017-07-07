@@ -19,15 +19,38 @@ Tersedia sebuah string sebagai input.
 
 [CONTOH]
 '+5-3+7+9+9-2'		--> 25
-*/
 
-function jumlahkan(inputString)
-{
+
+function jumlahkan(inputString) {
+
   // start code here
   var split = inputString.split('');
   return split[0], split[1] + split[2], split[3] + split[4], split[5] + split[6], split[7] + split[8], split[9] + split[10], split[11] + split[12]
 }
+
+console.log(jumlahkan('-1-1-1-1-1-2'));        // -7
+console.log(jumlahkan('+5-3+5+5-1'));        // 11
+console.log(jumlahkan('+4+3+7+1'));            // 15
+console.log(jumlahkan('-1-1-1-1-1-2'));		// -7
+console.log(jumlahkan('+5-3+5+5-1'));		// 11
+console.log(jumlahkan('+4+3+7+1'));			// 15
+*/
+
+function jumlahkan(inputString) {
   
+  // start code here
+  pecahString = inputString.split('');
+  tampung = 0;
+  for (var i = 0; i < pecahString.length; i++) {
+    if (pecahString[i] === '+') {
+      tampung += Number(pecahString[i+1]);
+    } else if(pecahString[i] === '-'){
+      tampung -= Number(pecahString[i+1]);
+    }
+  }
+  return tampung;
+}
+
 console.log(jumlahkan('-1-1-1-1-1-2'));        // -7
 console.log(jumlahkan('+5-3+5+5-1'));        // 11
 console.log(jumlahkan('+4+3+7+1'));            // 15

@@ -1,8 +1,8 @@
-http://jsbin.com/xeduya/2/edit?js,console
+http://jsbin.com/wiqavu/edit?js,console
 
 ```javascript
 for(var i = 1 ; i <= 100 ; i++){
-  if(i % 2 === 0){
+  if(i % 2 === 1){
     console.log("counter sekarang = " + i);
     console.log("GANJIL");
   }

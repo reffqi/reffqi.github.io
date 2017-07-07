@@ -8,7 +8,7 @@ var nama = '';
 var peran = '';
   if (nama === '') {
     console.log('Nama tidak boleh kosong');
-    if (nama === '') {
+    if (peran === '') {
       console.log('Pilih peranmu untuk memulai game');
     } else if (peran === 'Ksatria') {
       console.log('Halo Ksatria ' + nama + ', kamu dapat menyerang dengan senjatamu!');
@@ -38,7 +38,7 @@ var nama = 'Rifqi';
 var peran = 'Ksatria';
   if (nama === '') {
     console.log('Nama tidak boleh kosong');
-    if (nama === '') {
+    if (peran === '') {
       console.log('Pilih peranmu untuk memulai game');
     } else if (peran === 'Ksatria') {
       console.log('Halo Ksatria ' + nama + ', kamu dapat menyerang dengan senjatamu!');
@@ -68,7 +68,7 @@ var nama = 'Jack';
 var peran = 'Tabib';
   if (nama === '') {
     console.log('Nama tidak boleh kosong');
-    if (nama === '') {
+    if (peran === '') {
       console.log('Pilih peranmu untuk memulai game');
     } else if (peran === 'Ksatria') {
       console.log('Halo Ksatria ' + nama + ', kamu dapat menyerang dengan senjatamu!');
@@ -98,7 +98,7 @@ var nama = 'Uli';
 var peran = 'Penyihir';
   if (nama === '') {
     console.log('Nama tidak boleh kosong');
-    if (nama === '') {
+    if (peran === '') {
       console.log('Pilih peranmu untuk memulai game');
     } else if (peran === 'Ksatria') {
       console.log('Halo Ksatria ' + nama + ', kamu dapat menyerang dengan senjatamu!');
