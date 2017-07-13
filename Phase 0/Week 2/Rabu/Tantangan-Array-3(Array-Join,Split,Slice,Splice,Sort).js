@@ -1,6 +1,5 @@
-http://jsbin.com/yabade/edit?js,console
+// http://jsbin.com/yabade/edit?js,console
 
-```javascript
 var input = ["0001", "Roman Alamsyah ", "Bandar Lampung", "21/05/1989", "Membaca"];
 
 function dataHandling2(input) {
@@ -63,4 +62,3 @@ function dataHandling2(input) {
 }
 
 dataHandling2(input);
-```

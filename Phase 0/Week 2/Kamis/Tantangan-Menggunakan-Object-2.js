@@ -1,6 +1,5 @@
-http://jsbin.com/cosoje/edit?js,console
+// http://jsbin.com/cosoje/edit?js,console
 
-```javascript
 var Teman = function(nama, kabar, pekerjaan) {
   this.nama = nama;
   this.kabar = kabar;
@@ -30,4 +29,3 @@ tono.balasSapa(budi.nama);
 budi.tanyaPekerjaan();
 tono.balasPekerjaan();
 budi.berpisah(tono);
-```

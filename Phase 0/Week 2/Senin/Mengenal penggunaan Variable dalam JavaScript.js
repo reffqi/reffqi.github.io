@@ -1,6 +1,6 @@
-http://jsbin.com/fikuday/2/edit?js,console
+// http://jsbin.com/fikuday/2/edit?js,console
 
-```javascript
+
 var number1 = 33;
 var number2 = 6;
 var string1 = "foo";
@@ -14,4 +14,3 @@ console.log(string1);
 console.log(string2);
 console.log(boolean1);
 console.log(boolean2);
-```

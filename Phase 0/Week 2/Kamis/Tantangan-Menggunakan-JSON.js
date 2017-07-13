@@ -1,6 +1,5 @@
-http://jsbin.com/xusabol/edit?js,console
+// http://jsbin.com/xusabol/edit?js,console
 
-'''javascript
 var Human1 = {
     nama: 'Tono',
     hari: 'Senin',
@@ -46,4 +45,3 @@ for(var i = 0; i < absensi.length; i++) {
 console.log('Total hari kerja minggu ini: ' + totalHariKerja + ' Hari');
 console.log('Total Masuk: ' + totalMasuk + ' Hari');
 console.log('Total Tidak Masuk: ' + totalTidakMasuk + ' Hari');
-'''

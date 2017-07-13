@@ -1,6 +1,5 @@
-http://jsbin.com/codubaj/edit?js,console
+// http://jsbin.com/codubaj/edit?js,console
 
-```javascript
 var deret = 0;
 while(deret < 20) {
   deret += 1;
@@ -14,4 +13,3 @@ while(deret > 2) {
   deret--;
   console.log(deret + ' - I will become fullstack developer')
 }
-```

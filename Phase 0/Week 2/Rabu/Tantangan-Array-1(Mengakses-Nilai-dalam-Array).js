@@ -1,6 +1,5 @@
-http://jsbin.com/yasodap/edit?js,console
+// http://jsbin.com/yasodap/edit?js,console
 
-```javascript
 function balikString(arr) {
   var split = arr.split("");
   var reverse = split.reverse(); 
@@ -9,4 +8,3 @@ function balikString(arr) {
 }
 
 console.log(balikString("hello world!"));
-```

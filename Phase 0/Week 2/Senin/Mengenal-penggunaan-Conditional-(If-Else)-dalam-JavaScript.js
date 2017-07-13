@@ -1,7 +1,6 @@
-http://jsbin.com/vimegir/edit?js,console
+// http://jsbin.com/vimegir/edit?js,console
 
 
-```javascript
 console.log('Input 1');
 
 var nama = '';
@@ -121,4 +120,3 @@ var peran = 'Penyihir';
   }
 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-```

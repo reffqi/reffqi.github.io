@@ -1,6 +1,6 @@
-http://jsbin.com/vokuxe/edit?js,console
+// http://jsbin.com/vokuxe/edit?js,console
 
-```javascript
+
 var nama = 'Rifqi';
 var peran = 'Ksatria';
 var tahunLahir = '1993';
@@ -53,4 +53,3 @@ if(playerHealth > monsterHealth) {
 } else {
   console.log('Sayang sekali, ' + peran + ' ' + nama + ' dikalahkan monster...');
 }
-```

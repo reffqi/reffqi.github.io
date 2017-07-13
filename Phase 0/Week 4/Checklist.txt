@@ -1,26 +1,27 @@
-### Tugas yang sudah di submit :
+Tugas yang sudah di submit :
 
-```
-W4D1 = 
+W4D1 =
+coderbyte Division
+coderbyte Prime Time
+coderbyte Simple Mode
+oderbyte Simple Adding
 
-```
+W4D2 =
+coderbyte Product Digits
+coderbyte Alphabet Soup
+oderbyte Built-in Functions and Looping - Swap Case
+coderbyte AB Check
 
-```
-W4D2 = 
+W4D3 =
+coderbyte Dash Insert
+coderbyte Letter Capitalize
+coderbyte Letter Changes
+coderbyte Letter Count 1
 
-```
+W4D4 =
+coderbyte - Vowel Count
+coderbyte Longest Word
+coderbyte Simple Symbols
 
-```
-W4D3 = 
-
-```
-
-```
-W4D4 = 
-
-```
-
-```
 W4D5 = 
-
-```
+LiveCoding(1, 2, 3)

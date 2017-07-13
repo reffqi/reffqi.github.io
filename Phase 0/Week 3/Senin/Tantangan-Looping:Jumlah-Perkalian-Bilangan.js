@@ -1,6 +1,5 @@
-http://jsbin.com/xibiyir/edit?js,console
+// http://jsbin.com/xibiyir/edit?js,console
 
-```javascript
 // Fungsi Pertama
 
 function numberSum(num) {
@@ -25,4 +24,3 @@ function numSum(num1, num2) {
 }
 
 console.log(numSum(12, 5));
-```

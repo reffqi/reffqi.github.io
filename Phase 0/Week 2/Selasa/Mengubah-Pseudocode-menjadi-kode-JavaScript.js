@@ -1,7 +1,7 @@
-http://jsbin.com/givabub/edit?js,console
+// http://jsbin.com/givabub/edit?js,console
 
-```javascript
 // Tugas 1
+
 console.log("Tugas 1");
 
 var nama = "Rifqi Anugrah";
@@ -13,6 +13,7 @@ console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
 
 // Tugas 2
+
 console.log("Tugas 2");
 
 var alas = 10;
@@ -23,6 +24,7 @@ console.log("~~~~~~~~~~~~~~~~~")
 
 
 // Tugas 3
+
 console.log("Tugas 3");
 
 var tahun = 2017;
@@ -43,4 +45,3 @@ else {
 }
 
 console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-```

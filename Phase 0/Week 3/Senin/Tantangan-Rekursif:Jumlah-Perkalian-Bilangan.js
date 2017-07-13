@@ -1,6 +1,5 @@
-http://jsbin.com/hozelif/edit?js,console
+// http://jsbin.com/hozelif/edit?js,console
 
-```javascript
 // Fungsi Pertama
 
 function numberSum(num) {
@@ -30,4 +29,3 @@ function numSum(num1, num2) {
 }
 
 console.log(numSum(12, 5));
-```

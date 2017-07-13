@@ -1,6 +1,6 @@
-http://jsbin.com/seviday/edit?js,console
+// http://jsbin.com/seviday/edit?js,console
 
-```javascript
+
 // Tugas 1
 
 var total = 0;
@@ -38,4 +38,3 @@ for(var index1 = 1; index1 <= 10; index1++) {
   console.log(bintang);
   bintang = "";
 }
-```
