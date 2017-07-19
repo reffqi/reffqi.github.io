@@ -1,0 +1,15 @@
+Tugas yang sudah di submit :
+
+W5D1 =
+Seleksi dan Manipulasi DOM Sederhana
+
+W5D2 =
+Penjelajahan dan Manipulasi DOM Sederhana
+
+W5D3 =
+Validasi Form dengan JavaScript
+
+W5D4 =
+Menyusun Layout HTML dengan JavaScript
+
+W5D5 =
